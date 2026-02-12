@@ -2,7 +2,7 @@
 
 **`Computer Science student`**
 
-Me chamo Vitor Luis, tenho 21 anos e sou do Rio de Janeiro. Concluí o ensino médio em 2021 e fui aprovado nas faculdades: UERJ, UFF, UFRRJ e UFRJ. Atualmente, estou cursando Ciência da Computação na UFRJ, e também estou participando de projetos de desenvolvimento de sistemas para web na Empresa Junior de TI da UFRJ. Sou apaixonado por tecnologia e busco sempre aprender mais.
+Me chamo Vitor Luis, tenho 21 anos e sou do Rio de Janeiro. Concluí o ensino médio em 2021 e fui aprovado nas faculdades: UERJ, UFF, UFRRJ e UFRJ. Tenho experiência com desenvolvimento web (HTML, CSS e JavaScript), fruto de participação no projeto de extensão DEBUG da UFRJ. Atualmente, estou cursando Ciência da Computação na UFRJ, e também estou participando de projetos de desenvolvimento de sistemas para web na Empresa Junior de TI da UFRJ. Sou apaixonado por tecnologia e busco sempre aprender mais.
 
 ---
 
